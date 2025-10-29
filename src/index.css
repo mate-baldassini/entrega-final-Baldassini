@@ -1,0 +1,4 @@
+/* estilos mínimos personalizados */
+body { background: #f8f9fa; }
+.container { max-width: 1100px; }
+img.object-cover { object-fit: cover; }
